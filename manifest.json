@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+
+  "name": "Codeforces Timer",
+  "version": "0.1.0",
+  "description": "A Timer for Codeforces problems",
+  "permissions": ["storage"],
+  "content_scripts": [
+    {
+      "css": ["css/styles.css"],
+      "js": ["js/content.js"],
+      "matches": [
+        "https://codeforces.com/problemset/problem/*",
+        "https://codeforces.com/contest/*/*"
+      ]
+    }
+  ],
+  "background": {
+    "scripts": ["js/background.js"]
+  },
+  "browser_action": {
+    "default_title": "Select timer for problems",
+    "default_icon": "images/cftimer.png",
+    "default_popup": "html/popup.html"
+  },
+  "icons": {
+    "16": "images/cftimer.png",
+    "48": "images/cftimer.png",
+    "128": "images/cftimer.png"
+  }
+}

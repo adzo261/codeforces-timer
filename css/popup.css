@@ -1,0 +1,19 @@
+.timer-option {
+  width: 10rem;
+  font-size: 1rem;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+.timer-option:hover {
+  background-color: gainsboro;
+  cursor: pointer;
+}
+.logo-div {
+  border-top: 1px solid gainsboro;
+  text-align: center;
+  padding-top: 2px;
+}
+#logo {
+  width: 57px;
+  height: 15px;
+}
