@@ -36,8 +36,9 @@ A Google Chrome Extension to add a timer to practice speed problem solving on Co
 2. Selected timer will be applied for all the problems that you open.
 3. Problems can be opened from Problemset page and Contest page.
 4. Once a problem is opened timer cannot be paused.
-5. For already solved problems timer will show a `Finished` message.
-6. For problems, you ran out of time, it will show a `Timed Out` message.
+5. When a solution is submitted within time, and is accepted, the timer will detect and automatically stop and show `Finished`.
+6. For already solved problems, timer will show a `Finished` message.
+7. For problems, you ran out of time, it will show a `Timed Out` message.
 
 ## Development setup
 
