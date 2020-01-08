@@ -6,6 +6,8 @@ function selectAndSendTimer(event) {
   chrome.storage.local.get("timer", function(obj) {
     var oldTimer = obj.timer;
     var oldSelectedTimer = document.getElementById(oldTimer);
+    var defaultTimer = document.getElementById(DEFAULT_TIMER);
+    defaultTimer.style.background = "white";
     if (oldSelectedTimer) {
       oldSelectedTimer.style.background = "white";
     }
