@@ -29,7 +29,7 @@ A Google Chrome Extension to add a timer to practice speed problem solving on Co
 ## Installation
 
 1. Download the repo as `.zip` and extract it.
-2. Open Google Chrome -> Settings -> Extensions -> Load Unpacked Extensions -> Point to the extracted folder.
+2. Open Google Chrome -> Settings -> Extensions -> Toggle On Developer Mode -> Load Unpacked Extensions -> Point to the extracted folder.
 
 ## Usage
 1. Select the timer as per your need from the drop down of extension icon.
