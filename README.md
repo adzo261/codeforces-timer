@@ -1,7 +1,7 @@
 <div align="center">
 <h1> Codeforces Timer 
   <p><br>
-  <img src='./images/cftimer.png' style="width:5rem;height:5rem"/>   
+  <img src='./images/cftimer.png' width="40%" height="50%"/>   
   <br>
     <a href="" alt="Codeagni">
       <img src="https://img.shields.io/badge/Made%20by-Codeagni-orange?style=for-the-badge" />
@@ -19,8 +19,8 @@ A Google Chrome Extension to add a timer to practice speed problem solving on Co
 <br>
 
 ## Preview
-<img src='./images/timerpage.png' style="width:30rem;"/>  
-<img src='./images/browseraction.png' style="width:5rem;"/>  
+<img src='./images/timerpage.png' width="60%"/>  
+<img src='./images/browseraction.png' width="15%"/>  
 
 ## Installation
 
