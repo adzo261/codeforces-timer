@@ -17,3 +17,18 @@
   width: 57px;
   height: 15px;
 }
+#custom-timer-input {
+  display: none;
+  text-align: center;
+}
+.custom-input {
+  width: 20%;
+}
+#done {
+  background-color: #ffeeaaff;
+  border: none;
+}
+#reset {
+  background-color: rgba(255, 0, 0, 0.527);
+  border: none;
+}

@@ -25,6 +25,9 @@ A Google Chrome Extension to add a timer to practice speed problem solving on Co
 <img src='./images/browseraction.png' width="15%"/> 
 </p>
 
+## Whats new ?
+
+- Now you can set Custom Timer.
 
 ## Installation
 
@@ -32,6 +35,7 @@ A Google Chrome Extension to add a timer to practice speed problem solving on Co
 2. Open Google Chrome -> Settings -> Extensions -> Toggle On Developer Mode -> Load Unpacked Extensions -> Point to the extracted folder.
 
 ## Usage
+
 1. Select the timer as per your need from the drop down of extension icon.
 2. Selected timer will be applied for all the problems that you open.
 3. Problems can be opened from Problemset page and Contest page.
