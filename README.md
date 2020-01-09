@@ -34,6 +34,11 @@ A Google Chrome Extension to add a timer to practice speed problem solving on Co
 1. Download the repo as `.zip` and extract it.
 2. Open Google Chrome -> Settings -> Extensions -> Toggle On Developer Mode -> Load Unpacked Extensions -> Point to the extracted folder.
 
+## Note
+
+You may want to disable the extension before attempting an actual live contest, just to avoid confusion between individual problem timer and real contest timer.<br>
+It can be disabled from Settings -> Extensions page.
+
 ## Usage
 
 1. Select the timer as per your need from the drop down of extension icon.
